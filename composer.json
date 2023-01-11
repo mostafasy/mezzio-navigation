@@ -17,7 +17,7 @@
         "forum": "https://discourse.laminas.dev"
     },
     "require": {
-        "php": "^7.1",
+        "php": "^7.1 || ^8.0",
         "psr/http-server-middleware": "^1",
         "mezzio/mezzio-helpers": "^5",
         "laminas/laminas-navigation": "^2.9",
